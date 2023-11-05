@@ -1,0 +1,12 @@
+= Code Companion - Provengo Tutorials
+
+This repo contains code for the https://provengo.github.io/Tutorials/[Provnego tutorials]. Each tutorial lesson has a corresponding directory. These directories hold initial projects, helper code, and example solutions.
+
+[TIP]
+.A Word About Example Solutions
+====
+The Provengo tool was not designed around a single way of thinking. Rather, we designed it to support many coding, modeling, and thinking styles. This way, users can describe systems the way they think about them. This also means that you don't have to arrive at the exact solutions stored in this repo. As long as your solution works, it's great.
+
+Consider sharing your solution with us and with the rest of the Provengo user community - it's a great way to learn and inspire others.
+====
+
