@@ -1,0 +1,21 @@
+version: 2
+
+sample:
+  overwrite: true
+  size: 500
+
+gen-scripts:
+  overwrite: true
+
+selenium:
+  implicit-wait: 5000
+  # browser: firefox
+
+visualization:
+  layout: horizontal
+  order: visual
+
+profiles:
+  shirtLater:
+    ensemble:
+      ranking-function: shirtLater
