@@ -9,7 +9,7 @@ gen-scripts:
 
 selenium:
   implicit-wait: 5000
-  # browser: firefox
+  browser: firefox
 
 visualization:
   layout: horizontal
