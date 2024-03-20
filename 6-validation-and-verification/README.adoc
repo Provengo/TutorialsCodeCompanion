@@ -1,0 +1,8 @@
+= Checking Your Models
+
+This is a code companion project for the Checking Your Models tutorial. There are two projects here:
+
+start::
+    A staring point for the project. Contains most of what's needed for a working solution.
+solution::
+    A possible solution to the tutorial. Note that there might be other good solutions as well, so if you come up with something else that works ans is not exactly this solution, this is perfectly fine.
